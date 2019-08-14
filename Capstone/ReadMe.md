@@ -1,4 +1,4 @@
-Airbnb-To understand how the different features of a listing in LA  can influence
+Airbnb - Analyze what factors do influence the price of a listing in LA and Predict price for a new listing
 ---
 # Prologue
 *"Airbnb happened because two guys could not pay their rent, but did have some space."* 
